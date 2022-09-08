@@ -18,7 +18,7 @@
 - ## 10.1 Alterna Caracteres con Contador
     ### Run command
     ```
-    pytest assignments/10.1AlternaCaracteresContador
+    pytest assignments/101AlternaCaracteresContador
     ```
 
 - ## 18 Factorial
